@@ -1,0 +1,11 @@
+{
+  "name": "Project_4",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-pagespeed": "^1.0.0",
+    "ngrok": "^0.2.2"
+  }
+}
